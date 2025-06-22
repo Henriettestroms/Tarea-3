@@ -10,6 +10,13 @@
 
 Esta tarea busca implementar en **C++ y Qt** un simulador gráfico que reproduce el patrón de diseño *Publisher–Subscriber*, similar al desarrollado en la Tarea 2 con Java y JavaFX.
 
+### 📁 Organización del repositorio
+
+La estructura del repositorio es la siguiente:
+
+- `cpp/include` y `cpp/src` guardan las clases reutilizables entre etapas.
+- `cpp/Stage1` contiene el programa principal de la Etapa 1.
+
 El simulador permite crear:
 - Un publicador de **URLs de videos**
 - Un publicador de **posiciones GPS de un automóvil**
