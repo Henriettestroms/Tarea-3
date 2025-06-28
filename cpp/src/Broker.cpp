@@ -14,7 +14,9 @@ Topic* Broker::createTopic(const std::string& topicName){
 }
 
 bool Broker::subscribe(Subscriber* sub){
-    Topic* topic = findTopic(sub->getTopicName());
+    if(!sub)
+        return false;
+    Topic* topic = createTopic(sub->getTopicName());
     if(topic){
         topic->subscribe(sub);
         return true;
