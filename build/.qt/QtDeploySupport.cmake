@@ -34,11 +34,11 @@ endif()
 set(__QT_DEPLOY_SYSTEM_NAME "Windows")
 set(__QT_DEPLOY_IS_SHARED_LIBS_BUILD "ON")
 set(__QT_DEPLOY_TOOL "C:/Qt/6.9.1/mingw_64/bin/windeployqt.exe")
-set(__QT_DEPLOY_IMPL_DIR "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/.qt")
+set(__QT_DEPLOY_IMPL_DIR "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/.qt")
 set(__QT_DEPLOY_VERBOSE "")
 set(__QT_CMAKE_EXPORT_NAMESPACE "Qt6")
 set(__QT_DEPLOY_GENERATOR_IS_MULTI_CONFIG "0")
-set(__QT_DEPLOY_ACTIVE_CONFIG "Debug")
+set(__QT_DEPLOY_ACTIVE_CONFIG "")
 set(__QT_NO_CREATE_VERSIONLESS_FUNCTIONS "")
 set(__QT_DEFAULT_MAJOR_VERSION "6")
 set(__QT_DEPLOY_QT_ADDITIONAL_PACKAGES_PREFIX_PATH "")
@@ -58,7 +58,7 @@ set(__QT_DEPLOY_QT_DEBUG_POSTFIX "")
 
 # Define the CMake commands to be made available during deployment.
 set(__qt_deploy_support_files
-    "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/.qt/QtDeployTargets.cmake"
+    "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/.qt/QtDeployTargets.cmake"
     "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreDeploySupport.cmake"
 )
 foreach(__qt_deploy_support_file IN LISTS __qt_deploy_support_files)

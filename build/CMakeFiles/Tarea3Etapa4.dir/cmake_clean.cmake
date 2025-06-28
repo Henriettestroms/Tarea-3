@@ -1,4 +1,9 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Tarea3Etapa4_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/Tarea3Etapa4_autogen.dir/ParseCache.txt"
+  "Tarea3Etapa4_autogen"
+  "CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.obj.d"
   "CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.obj"
   "CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.obj.d"
   "CMakeFiles/Tarea3Etapa4.dir/cpp/src/Broker.cpp.obj"
@@ -9,6 +14,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarPublisher.cpp.obj.d"
   "CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarSubscriber.cpp.obj"
   "CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarSubscriber.cpp.obj.d"
+  "CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.obj"
+  "CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.obj.d"
   "CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.obj"
   "CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.obj.d"
   "CMakeFiles/Tarea3Etapa4.dir/cpp/src/Subscriber.cpp.obj"
@@ -22,6 +29,8 @@ file(REMOVE_RECURSE
   "Tarea3Etapa4.exe"
   "Tarea3Etapa4.exe.manifest"
   "Tarea3Etapa4.pdb"
+  "Tarea3Etapa4_autogen/mocs_compilation.cpp"
+  "Tarea3Etapa4_autogen/timestamp"
   "libTarea3Etapa4.dll.a"
 )
 

@@ -56,10 +56,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1"
+CMAKE_SOURCE_DIR = "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build"
+CMAKE_BINARY_DIR = "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\CMakeFiles" "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles" "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\\CMakeFiles\progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -127,6 +127,56 @@ Tarea3Etapa4: cmake_check_build_system
 Tarea3Etapa4/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea3Etapa4.dir\build.make CMakeFiles/Tarea3Etapa4.dir/build
 .PHONY : Tarea3Etapa4/fast
+
+#=============================================================================
+# Target rules for targets named Tarea3Etapa4_autogen_timestamp_deps
+
+# Build rule for target.
+Tarea3Etapa4_autogen_timestamp_deps: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Tarea3Etapa4_autogen_timestamp_deps
+.PHONY : Tarea3Etapa4_autogen_timestamp_deps
+
+# fast build rule for target.
+Tarea3Etapa4_autogen_timestamp_deps/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea3Etapa4_autogen_timestamp_deps.dir\build.make CMakeFiles/Tarea3Etapa4_autogen_timestamp_deps.dir/build
+.PHONY : Tarea3Etapa4_autogen_timestamp_deps/fast
+
+#=============================================================================
+# Target rules for targets named Tarea3Etapa4_autogen
+
+# Build rule for target.
+Tarea3Etapa4_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Tarea3Etapa4_autogen
+.PHONY : Tarea3Etapa4_autogen
+
+# fast build rule for target.
+Tarea3Etapa4_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea3Etapa4_autogen.dir\build.make CMakeFiles/Tarea3Etapa4_autogen.dir/build
+.PHONY : Tarea3Etapa4_autogen/fast
+
+Tarea3Etapa4_autogen/mocs_compilation.obj: Tarea3Etapa4_autogen/mocs_compilation.cpp.obj
+.PHONY : Tarea3Etapa4_autogen/mocs_compilation.obj
+
+# target to build an object file
+Tarea3Etapa4_autogen/mocs_compilation.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea3Etapa4.dir\build.make CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.obj
+.PHONY : Tarea3Etapa4_autogen/mocs_compilation.cpp.obj
+
+Tarea3Etapa4_autogen/mocs_compilation.i: Tarea3Etapa4_autogen/mocs_compilation.cpp.i
+.PHONY : Tarea3Etapa4_autogen/mocs_compilation.i
+
+# target to preprocess a source file
+Tarea3Etapa4_autogen/mocs_compilation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea3Etapa4.dir\build.make CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.i
+.PHONY : Tarea3Etapa4_autogen/mocs_compilation.cpp.i
+
+Tarea3Etapa4_autogen/mocs_compilation.s: Tarea3Etapa4_autogen/mocs_compilation.cpp.s
+.PHONY : Tarea3Etapa4_autogen/mocs_compilation.s
+
+# target to generate assembly for a file
+Tarea3Etapa4_autogen/mocs_compilation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea3Etapa4.dir\build.make CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.s
+.PHONY : Tarea3Etapa4_autogen/mocs_compilation.cpp.s
 
 cpp/Stage1/src/Stage1.obj: cpp/Stage1/src/Stage1.cpp.obj
 .PHONY : cpp/Stage1/src/Stage1.obj
@@ -247,6 +297,30 @@ cpp/src/GPSCarSubscriber.s: cpp/src/GPSCarSubscriber.cpp.s
 cpp/src/GPSCarSubscriber.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea3Etapa4.dir\build.make CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarSubscriber.cpp.s
 .PHONY : cpp/src/GPSCarSubscriber.cpp.s
+
+cpp/src/GPSFollower.obj: cpp/src/GPSFollower.cpp.obj
+.PHONY : cpp/src/GPSFollower.obj
+
+# target to build an object file
+cpp/src/GPSFollower.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea3Etapa4.dir\build.make CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.obj
+.PHONY : cpp/src/GPSFollower.cpp.obj
+
+cpp/src/GPSFollower.i: cpp/src/GPSFollower.cpp.i
+.PHONY : cpp/src/GPSFollower.i
+
+# target to preprocess a source file
+cpp/src/GPSFollower.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea3Etapa4.dir\build.make CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.i
+.PHONY : cpp/src/GPSFollower.cpp.i
+
+cpp/src/GPSFollower.s: cpp/src/GPSFollower.cpp.s
+.PHONY : cpp/src/GPSFollower.s
+
+# target to generate assembly for a file
+cpp/src/GPSFollower.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea3Etapa4.dir\build.make CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.s
+.PHONY : cpp/src/GPSFollower.cpp.s
 
 cpp/src/Publisher.obj: cpp/src/Publisher.cpp.obj
 .PHONY : cpp/src/Publisher.obj
@@ -376,7 +450,12 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Tarea3Etapa4_autogen
+	@echo ... Tarea3Etapa4_autogen_timestamp_deps
 	@echo ... Tarea3Etapa4
+	@echo ... Tarea3Etapa4_autogen/mocs_compilation.obj
+	@echo ... Tarea3Etapa4_autogen/mocs_compilation.i
+	@echo ... Tarea3Etapa4_autogen/mocs_compilation.s
 	@echo ... cpp/Stage1/src/Stage1.obj
 	@echo ... cpp/Stage1/src/Stage1.i
 	@echo ... cpp/Stage1/src/Stage1.s
@@ -392,6 +471,9 @@ help:
 	@echo ... cpp/src/GPSCarSubscriber.obj
 	@echo ... cpp/src/GPSCarSubscriber.i
 	@echo ... cpp/src/GPSCarSubscriber.s
+	@echo ... cpp/src/GPSFollower.obj
+	@echo ... cpp/src/GPSFollower.i
+	@echo ... cpp/src/GPSFollower.s
 	@echo ... cpp/src/Publisher.obj
 	@echo ... cpp/src/Publisher.i
 	@echo ... cpp/src/Publisher.s

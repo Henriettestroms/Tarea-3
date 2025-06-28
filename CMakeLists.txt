@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 3.14)
 
 project(Tarea3Etapa4 LANGUAGES CXX)
 
+set(CMAKE_AUTOMOC ON)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
@@ -18,6 +19,9 @@ add_executable(${PROJECT_NAME}
     cpp/src/Publisher.cpp
     cpp/src/Subscriber.cpp
     cpp/src/Topic.cpp
+    cpp/src/GPSFollower.cpp
+    cpp/include/GPSCarPublisher.h
+    cpp/include/GPSFollower.h
 )
 
 target_include_directories(${PROJECT_NAME} PRIVATE
@@ -25,5 +29,8 @@ target_include_directories(${PROJECT_NAME} PRIVATE
     cpp/include
 )
 
-target_link_libraries(${PROJECT_NAME} PRIVATE Qt6::Widgets Qt6::Multimedia Qt6::MultimediaWidgets)
-
+target_link_libraries(${PROJECT_NAME} PRIVATE
+    Qt6::Widgets
+    Qt6::Multimedia
+    Qt6::MultimediaWidgets
+)

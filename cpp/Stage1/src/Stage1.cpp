@@ -10,7 +10,7 @@
 #include "VideoPublisher.h"
 #include "VideoFollower.h"
 #include "GPSCarPublisher.h"
-#include "GPSFollower.h
+#include "GPSFollower.h"
 
 int main(int argc, char *argv[])
 {

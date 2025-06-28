@@ -1,3 +1,5 @@
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/Tarea3Etapa4.dir
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/edit_cache.dir
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/Tarea3Etapa4.dir
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/edit_cache.dir
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/rebuild_cache.dir
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/Tarea3Etapa4_autogen_timestamp_deps.dir
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/Tarea3Etapa4_autogen.dir
