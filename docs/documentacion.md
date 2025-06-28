@@ -13,6 +13,7 @@ Este documento resume los elementos principales del simulador gráfico de dispos
 +---------------+   +------------------+
 | VideoPublisher|   |   VideoFollower  |
 +---------------+   +------------------+
+                    | -volumeSlider |
 ```
 
 ## Explicación de la Solución
@@ -26,3 +27,5 @@ La clase `VideoPublisher` permite ingresar una URL de video y notifica a todos l
 1. **Integración con Qt:** configurar CMake para enlazar correctamente con `Qt6::MultimediaWidgets` requirió revisar ejemplos oficiales. La solución fue seguir la estructura propuesta en la guía del curso.
 2. **Manejo de señales y slots:** sincronizar las actualizaciones del `VideoFollower` con eventos del `VideoPublisher` fue complejo. Se implementó una capa base (`Component`) para facilitar la conexión.
 3. **Interfaz gráfica responsiva:** se ajustaron tamaños de widgets y se utilizaron layouts de Qt para asegurar un correcto funcionamiento en distintas resoluciones.
+
+Adicionalmente, en la etapa final se incorporó un `QSlider` para controlar el volumen de reproducción del video. Para ello se emplea un objeto `QAudioOutput` asociado al reproductor.

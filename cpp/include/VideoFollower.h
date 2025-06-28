@@ -4,6 +4,7 @@
 #include <QWidget>
 #include <QString>
 class QPushButton;
+class QSlider;
 class VideoFollower : public Subscriber {
 public:
     VideoFollower(const std::string& name, const std::string& topicName);
@@ -13,6 +14,7 @@ public:
 private:
     QWidget* view{nullptr};
     QPushButton* video{nullptr};
+    QSlider* volumeSlider{nullptr};
     QString lastUrl;
 };
 #endif

@@ -8,7 +8,7 @@
 
 ## Descripción General
 
-Esta tarea busca implementar en **C++ y Qt** un simulador gráfico que reproduce el patrón de diseño *Publisher–Subscriber*, similar al desarrollado en la Tarea 2 con Java y JavaFX. Esta version alcanza la Etapa 4 del enunciado.
+Esta tarea busca implementar en **C++ y Qt** un simulador gráfico que reproduce el patrón de diseño *Publisher–Subscriber*, similar al desarrollado en la Tarea 2 con Java y JavaFX. Esta versión alcanza la **Etapa 5 (extra-crédito)**, incorporando un control de volumen con `QSlider`.
 
 ### Organización del repositorio
 
@@ -161,13 +161,9 @@ Se implementan **todas las funcionalidades** descritas en las secciones 2 y 3:
 
 ---
 
-<!--### Etapa 5 (Extra-crédito): Control de volumen
+### Etapa 5 (Extra-crédito): Control de volumen
 
-
-- Incorporar `QSlider` horizontal para ajustar el volumen del video.
-- Si se implementa esta parte, debe mencionarse **explícitamente en este README**.
-
---- -->
+Se incorpora un `QSlider` horizontal en cada `VideoFollower` para ajustar el volumen del video. El deslizador controla en tiempo real el reproductor.
 
 ## Entrega
 

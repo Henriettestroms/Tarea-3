@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Documentación Tarea 3</title>
+</head>
+<body>
+<h1>Documentación de la Tarea 3</h1>
+<p>Este documento resume los elementos principales del simulador gráfico de dispositivos domóticos desarrollado en C++ con Qt. Aporta un diagrama de clases simplificado, una breve explicación de la solución y las dificultades enfrentadas.</p>
+<h2>Diagrama UML</h2>
+<pre>
++----------------+     +----------------+
+|   Publisher    |<>---|    Subscriber  |
++----------------+     +----------------+
+        ^                    ^
+        |                    |
++---------------+   +------------------+
+| VideoPublisher|   |   VideoFollower  |
++---------------+   +------------------+
+                    | -volumeSlider |
+</pre>
+<h2>Explicación de la Solución</h2>
+<p>El programa implementa el patrón <em>Publisher–Subscriber</em>. Un <code>Broker</code> central administra la suscripción de objetos <code>Subscriber</code> a distintos <code>Topic</code>. Los publicadores envían mensajes mediante el <code>Broker</code> y los suscriptores reaccionan actualizando su interfaz gráfica.</p>
+<p>La clase <code>VideoPublisher</code> permite ingresar una URL de video y notifica a todos los seguidores (<code>VideoFollower</code>). Estos actualizan un botón con el último enlace recibido y, al presionarlo, muestran el video.</p>
+<h2>Dificultades y Soluciones</h2>
+<ol>
+<li><strong>Integración con Qt:</strong> configurar CMake para enlazar correctamente con <code>Qt6::MultimediaWidgets</code> requirió revisar ejemplos oficiales.</li>
+<li><strong>Manejo de señales y slots:</strong> sincronizar las actualizaciones del <code>VideoFollower</code> con eventos del <code>VideoPublisher</code> fue complejo. Se implementó una capa base (<code>Component</code>) para facilitar la conexión.</li>
+<li><strong>Interfaz gráfica responsiva:</strong> se ajustaron tamaños de widgets y se utilizaron layouts de Qt para asegurar un correcto funcionamiento en distintas resoluciones.</li>
+</ol>
+<p>Adicionalmente, en la etapa final se incorporó un <code>QSlider</code> para controlar el volumen de reproducción del video. Para ello se emplea un objeto <code>QAudioOutput</code> asociado al reproductor.</p>
+</body>
+</html>
