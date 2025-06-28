@@ -32,10 +32,16 @@ GPSCarPublisher::GPSCarPublisher(const std::string& name, Broker& broker, const 
 
     timer = new QTimer(this);
     QObject::connect(startButton, &QPushButton::clicked, this, &GPSCarPublisher::start);
-    QObject::connect(timer, &QTimer::timeout, this, &GPSCarPublisher::start);
+    QObject::connect(timer, &QTimer::timeout, this, &GPSCarPublisher::publishNext);
 }
 
 void GPSCarPublisher::start(){
+    timer->stop();
+    index = 0;
+    publishNext();
+}
+
+void GPSCarPublisher::publishNext(){
     if(index < points.size()){
         QPointF p = points[index++];
         QString msg = QString("%1 %2 %3").arg(index).arg(p.x()).arg(p.y());
@@ -44,6 +50,7 @@ void GPSCarPublisher::start(){
             timer->start(1000);
     } else {
         timer->stop();
+        index = 0;
     }
 }
 

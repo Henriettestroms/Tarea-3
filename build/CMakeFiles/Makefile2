@@ -83,8 +83,8 @@ clean: CMakeFiles/Tarea3Etapa4_autogen.dir/clean
 # Target rules for target CMakeFiles/Tarea3Etapa4.dir
 
 # All Build rule for target.
-CMakeFiles/Tarea3Etapa4.dir/all: CMakeFiles/Tarea3Etapa4_autogen_timestamp_deps.dir/all
 CMakeFiles/Tarea3Etapa4.dir/all: CMakeFiles/Tarea3Etapa4_autogen.dir/all
+CMakeFiles/Tarea3Etapa4.dir/all: CMakeFiles/Tarea3Etapa4_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea3Etapa4.dir\build.make CMakeFiles/Tarea3Etapa4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tarea3Etapa4.dir\build.make CMakeFiles/Tarea3Etapa4.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles" --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14 "Built target Tarea3Etapa4"

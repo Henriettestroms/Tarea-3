@@ -18,6 +18,7 @@ public:
 
 private slots:
     void start();
+    void publishNext();
 
 private:
     QWidget* view{nullptr};
