@@ -28,7 +28,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
       
       The CXX compiler identification is Clang, found in:
-        C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/4.0.3/CompilerIdCXX/a.exe
+        C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/4.0.3/CompilerIdCXX/a.exe
       
   -
     kind: "try_compile-v1"
@@ -39,8 +39,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-csvzjj"
-      binary: "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-csvzjj"
+      source: "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-8fxzrk"
+      binary: "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-8fxzrk"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/mingw64/bin/clang-scan-deps.exe"
       CMAKE_CXX_FLAGS: ""
@@ -51,19 +51,19 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-csvzjj'
+        Change Dir: 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-8fxzrk'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_99318/fast
-        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_99318.dir\\build.make CMakeFiles/cmTC_99318.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-csvzjj'
-        Building CXX object CMakeFiles/cmTC_99318.dir/CMakeCXXCompilerABI.cpp.obj
-        C:\\mingw64\\bin\\clang++.exe   -v -MD -MT CMakeFiles/cmTC_99318.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles\\cmTC_99318.dir\\CMakeCXXCompilerABI.cpp.obj.d -o CMakeFiles\\cmTC_99318.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCXXCompilerABI.cpp"
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_90c1b/fast
+        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_90c1b.dir\\build.make CMakeFiles/cmTC_90c1b.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-8fxzrk'
+        Building CXX object CMakeFiles/cmTC_90c1b.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\mingw64\\bin\\clang++.exe   -v -MD -MT CMakeFiles/cmTC_90c1b.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles\\cmTC_90c1b.dir\\CMakeCXXCompilerABI.cpp.obj.d -o CMakeFiles\\cmTC_90c1b.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCXXCompilerABI.cpp"
         (built by Brecht Sanders) clang version 14.0.4
         Target: x86_64-w64-windows-gnu
         Thread model: posix
         InstalledDir: C:/mingw64/bin
          (in-process)
-         "C:/mingw64/bin/clang++.exe" -cc1 -triple x86_64-w64-windows-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=none -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -mms-bitfields -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v "-fcoverage-compilation-dir=C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-csvzjj" -resource-dir C:/mingw64/lib/clang/14.0.4 -dependency-file "CMakeFiles\\\\cmTC_99318.dir\\\\CMakeCXXCompilerABI.cpp.obj.d" -MT CMakeFiles/cmTC_99318.dir/CMakeCXXCompilerABI.cpp.obj -sys-header-deps -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++ -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32 -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/backward -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/12.1.0 -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/12.1.0/x86_64-w64-mingw32 -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/12.1.0/backward -internal-isystem C:/mingw64/include/c++/12.1.0 -internal-isystem C:/mingw64/include/c++/12.1.0/x86_64-w64-mingw32 -internal-isystem C:/mingw64/include/c++/12.1.0/backward -internal-isystem C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/c++ -internal-isystem C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/c++/x86_64-w64-mingw32 -internal-isystem C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/c++/backward -internal-isystem C:/mingw64/lib/clang/14.0.4/include -internal-isystem C:/mingw64/x86_64-w64-mingw32/sys-root/mingw/include -internal-isystem C:/mingw64/x86_64-w64-mingw32/include -internal-isystem C:/mingw64/include -fdeprecated-macro "-fdebug-compilation-dir=C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-csvzjj" -ferror-limit 19 -fno-use-cxa-atexit -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -exception-model=seh -faddrsig -o "CMakeFiles\\\\cmTC_99318.dir\\\\CMakeCXXCompilerABI.cpp.obj" -x c++ "C:\\\\Program Files\\\\CMake\\\\share\\\\cmake-4.0\\\\Modules\\\\CMakeCXXCompilerABI.cpp"
+         "C:/mingw64/bin/clang++.exe" -cc1 -triple x86_64-w64-windows-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=none -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -mms-bitfields -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v "-fcoverage-compilation-dir=C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-8fxzrk" -resource-dir C:/mingw64/lib/clang/14.0.4 -dependency-file "CMakeFiles\\\\cmTC_90c1b.dir\\\\CMakeCXXCompilerABI.cpp.obj.d" -MT CMakeFiles/cmTC_90c1b.dir/CMakeCXXCompilerABI.cpp.obj -sys-header-deps -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++ -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32 -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/backward -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/12.1.0 -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/12.1.0/x86_64-w64-mingw32 -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/12.1.0/backward -internal-isystem C:/mingw64/include/c++/12.1.0 -internal-isystem C:/mingw64/include/c++/12.1.0/x86_64-w64-mingw32 -internal-isystem C:/mingw64/include/c++/12.1.0/backward -internal-isystem C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/c++ -internal-isystem C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/c++/x86_64-w64-mingw32 -internal-isystem C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/c++/backward -internal-isystem C:/mingw64/lib/clang/14.0.4/include -internal-isystem C:/mingw64/x86_64-w64-mingw32/sys-root/mingw/include -internal-isystem C:/mingw64/x86_64-w64-mingw32/include -internal-isystem C:/mingw64/include -fdeprecated-macro "-fdebug-compilation-dir=C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-8fxzrk" -ferror-limit 19 -fno-use-cxa-atexit -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -exception-model=seh -faddrsig -o "CMakeFiles\\\\cmTC_90c1b.dir\\\\CMakeCXXCompilerABI.cpp.obj" -x c++ "C:\\\\Program Files\\\\CMake\\\\share\\\\cmake-4.0\\\\Modules\\\\CMakeCXXCompilerABI.cpp"
         clang -cc1 version 14.0.4 based upon LLVM 14.0.4 default target x86_64-w64-mingw32
         ignoring nonexistent directory "C:/mingw64/x86_64-w64-mingw32/include/c++"
         ignoring nonexistent directory "C:/mingw64/x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32"
@@ -84,18 +84,18 @@ events:
          C:/mingw64/x86_64-w64-mingw32/include
          C:/mingw64/include
         End of search list.
-        Linking CXX executable cmTC_99318.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_99318.dir\\link.txt --verbose=1
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_99318.dir/objects.a
-        C:\\mingw64\\bin\\llvm-ar.exe qc CMakeFiles\\cmTC_99318.dir/objects.a @CMakeFiles\\cmTC_99318.dir\\objects1.rsp
-        C:\\mingw64\\bin\\clang++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_99318.dir/objects.a -Wl,--no-whole-archive -o cmTC_99318.exe -Wl,--out-implib,libcmTC_99318.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        Linking CXX executable cmTC_90c1b.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_90c1b.dir\\link.txt --verbose=1
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_90c1b.dir/objects.a
+        C:\\mingw64\\bin\\llvm-ar.exe qc CMakeFiles\\cmTC_90c1b.dir/objects.a @CMakeFiles\\cmTC_90c1b.dir\\objects1.rsp
+        C:\\mingw64\\bin\\clang++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_90c1b.dir/objects.a -Wl,--no-whole-archive -o cmTC_90c1b.exe -Wl,--out-implib,libcmTC_90c1b.dll.a -Wl,--major-image-version,0,--minor-image-version,0
         (built by Brecht Sanders) clang version 14.0.4
         Target: x86_64-w64-windows-gnu
         Thread model: posix
         InstalledDir: C:/mingw64/bin
-         "C:/mingw64/bin/ld" -m i386pep -Bdynamic -o cmTC_99318.exe C:/mingw64/x86_64-w64-mingw32/lib/crt2.o C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/crtbegin.o -LC:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0 -LC:/mingw64/x86_64-w64-mingw32/lib -LC:/mingw64/lib -LC:/mingw64/x86_64-w64-mingw32/sys-root/mingw/lib -v --whole-archive "CMakeFiles\\\\cmTC_99318.dir/objects.a" --no-whole-archive --out-implib libcmTC_99318.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/crtend.o
+         "C:/mingw64/bin/ld" -m i386pep -Bdynamic -o cmTC_90c1b.exe C:/mingw64/x86_64-w64-mingw32/lib/crt2.o C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/crtbegin.o -LC:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0 -LC:/mingw64/x86_64-w64-mingw32/lib -LC:/mingw64/lib -LC:/mingw64/x86_64-w64-mingw32/sys-root/mingw/lib -v --whole-archive "CMakeFiles\\\\cmTC_90c1b.dir/objects.a" --no-whole-archive --out-implib libcmTC_90c1b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/crtend.o
         GNU ld (Binutils for MinGW-W64 x86_64, built by Brecht Sanders) 2.38
-        mingw32-make[1]: Leaving directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-csvzjj'
+        mingw32-make[1]: Leaving directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-8fxzrk'
         
       exitCode: 0
   -
@@ -134,19 +134,19 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-csvzjj']
+        ignore line: [Change Dir: 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-8fxzrk']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_99318/fast]
-        ignore line: [C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_99318.dir\\build.make CMakeFiles/cmTC_99318.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-csvzjj']
-        ignore line: [Building CXX object CMakeFiles/cmTC_99318.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [C:\\mingw64\\bin\\clang++.exe   -v -MD -MT CMakeFiles/cmTC_99318.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles\\cmTC_99318.dir\\CMakeCXXCompilerABI.cpp.obj.d -o CMakeFiles\\cmTC_99318.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCXXCompilerABI.cpp"]
+        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_90c1b/fast]
+        ignore line: [C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_90c1b.dir\\build.make CMakeFiles/cmTC_90c1b.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-8fxzrk']
+        ignore line: [Building CXX object CMakeFiles/cmTC_90c1b.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [C:\\mingw64\\bin\\clang++.exe   -v -MD -MT CMakeFiles/cmTC_90c1b.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles\\cmTC_90c1b.dir\\CMakeCXXCompilerABI.cpp.obj.d -o CMakeFiles\\cmTC_90c1b.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCXXCompilerABI.cpp"]
         ignore line: [(built by Brecht Sanders) clang version 14.0.4]
         ignore line: [Target: x86_64-w64-windows-gnu]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: C:/mingw64/bin]
         ignore line: [ (in-process)]
-        ignore line: [ "C:/mingw64/bin/clang++.exe" -cc1 -triple x86_64-w64-windows-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=none -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -mms-bitfields -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v "-fcoverage-compilation-dir=C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-csvzjj" -resource-dir C:/mingw64/lib/clang/14.0.4 -dependency-file "CMakeFiles\\\\cmTC_99318.dir\\\\CMakeCXXCompilerABI.cpp.obj.d" -MT CMakeFiles/cmTC_99318.dir/CMakeCXXCompilerABI.cpp.obj -sys-header-deps -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++ -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32 -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/backward -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/12.1.0 -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/12.1.0/x86_64-w64-mingw32 -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/12.1.0/backward -internal-isystem C:/mingw64/include/c++/12.1.0 -internal-isystem C:/mingw64/include/c++/12.1.0/x86_64-w64-mingw32 -internal-isystem C:/mingw64/include/c++/12.1.0/backward -internal-isystem C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/c++ -internal-isystem C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/c++/x86_64-w64-mingw32 -internal-isystem C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/c++/backward -internal-isystem C:/mingw64/lib/clang/14.0.4/include -internal-isystem C:/mingw64/x86_64-w64-mingw32/sys-root/mingw/include -internal-isystem C:/mingw64/x86_64-w64-mingw32/include -internal-isystem C:/mingw64/include -fdeprecated-macro "-fdebug-compilation-dir=C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-csvzjj" -ferror-limit 19 -fno-use-cxa-atexit -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -exception-model=seh -faddrsig -o "CMakeFiles\\\\cmTC_99318.dir\\\\CMakeCXXCompilerABI.cpp.obj" -x c++ "C:\\\\Program Files\\\\CMake\\\\share\\\\cmake-4.0\\\\Modules\\\\CMakeCXXCompilerABI.cpp"]
+        ignore line: [ "C:/mingw64/bin/clang++.exe" -cc1 -triple x86_64-w64-windows-gnu -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=none -fmath-errno -ffp-contract=on -fno-rounding-math -mconstructor-aliases -mms-bitfields -funwind-tables=2 -target-cpu x86-64 -tune-cpu generic -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -v "-fcoverage-compilation-dir=C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-8fxzrk" -resource-dir C:/mingw64/lib/clang/14.0.4 -dependency-file "CMakeFiles\\\\cmTC_90c1b.dir\\\\CMakeCXXCompilerABI.cpp.obj.d" -MT CMakeFiles/cmTC_90c1b.dir/CMakeCXXCompilerABI.cpp.obj -sys-header-deps -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++ -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32 -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/backward -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/12.1.0 -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/12.1.0/x86_64-w64-mingw32 -internal-isystem C:/mingw64/x86_64-w64-mingw32/include/c++/12.1.0/backward -internal-isystem C:/mingw64/include/c++/12.1.0 -internal-isystem C:/mingw64/include/c++/12.1.0/x86_64-w64-mingw32 -internal-isystem C:/mingw64/include/c++/12.1.0/backward -internal-isystem C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/c++ -internal-isystem C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/c++/x86_64-w64-mingw32 -internal-isystem C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/include/c++/backward -internal-isystem C:/mingw64/lib/clang/14.0.4/include -internal-isystem C:/mingw64/x86_64-w64-mingw32/sys-root/mingw/include -internal-isystem C:/mingw64/x86_64-w64-mingw32/include -internal-isystem C:/mingw64/include -fdeprecated-macro "-fdebug-compilation-dir=C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-8fxzrk" -ferror-limit 19 -fno-use-cxa-atexit -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -exception-model=seh -faddrsig -o "CMakeFiles\\\\cmTC_90c1b.dir\\\\CMakeCXXCompilerABI.cpp.obj" -x c++ "C:\\\\Program Files\\\\CMake\\\\share\\\\cmake-4.0\\\\Modules\\\\CMakeCXXCompilerABI.cpp"]
         ignore line: [clang -cc1 version 14.0.4 based upon LLVM 14.0.4 default target x86_64-w64-mingw32]
         ignore line: [ignoring nonexistent directory "C:/mingw64/x86_64-w64-mingw32/include/c++"]
         ignore line: [ignoring nonexistent directory "C:/mingw64/x86_64-w64-mingw32/include/c++/x86_64-w64-mingw32"]
@@ -167,22 +167,22 @@ events:
         ignore line: [ C:/mingw64/x86_64-w64-mingw32/include]
         ignore line: [ C:/mingw64/include]
         ignore line: [End of search list.]
-        ignore line: [Linking CXX executable cmTC_99318.exe]
-        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_99318.dir\\link.txt --verbose=1]
-        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_99318.dir/objects.a]
-        ignore line: [C:\\mingw64\\bin\\llvm-ar.exe qc CMakeFiles\\cmTC_99318.dir/objects.a @CMakeFiles\\cmTC_99318.dir\\objects1.rsp]
-        ignore line: [C:\\mingw64\\bin\\clang++.exe  -v -Wl -v -Wl --whole-archive CMakeFiles\\cmTC_99318.dir/objects.a -Wl --no-whole-archive -o cmTC_99318.exe -Wl --out-implib libcmTC_99318.dll.a -Wl --major-image-version 0 --minor-image-version 0]
+        ignore line: [Linking CXX executable cmTC_90c1b.exe]
+        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_90c1b.dir\\link.txt --verbose=1]
+        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_90c1b.dir/objects.a]
+        ignore line: [C:\\mingw64\\bin\\llvm-ar.exe qc CMakeFiles\\cmTC_90c1b.dir/objects.a @CMakeFiles\\cmTC_90c1b.dir\\objects1.rsp]
+        ignore line: [C:\\mingw64\\bin\\clang++.exe  -v -Wl -v -Wl --whole-archive CMakeFiles\\cmTC_90c1b.dir/objects.a -Wl --no-whole-archive -o cmTC_90c1b.exe -Wl --out-implib libcmTC_90c1b.dll.a -Wl --major-image-version 0 --minor-image-version 0]
         ignore line: [(built by Brecht Sanders) clang version 14.0.4]
         ignore line: [Target: x86_64-w64-windows-gnu]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: C:/mingw64/bin]
-        link line: [ "C:/mingw64/bin/ld" -m i386pep -Bdynamic -o cmTC_99318.exe C:/mingw64/x86_64-w64-mingw32/lib/crt2.o C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/crtbegin.o -LC:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0 -LC:/mingw64/x86_64-w64-mingw32/lib -LC:/mingw64/lib -LC:/mingw64/x86_64-w64-mingw32/sys-root/mingw/lib -v --whole-archive "CMakeFiles\\\\cmTC_99318.dir/objects.a" --no-whole-archive --out-implib libcmTC_99318.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/crtend.o]
+        link line: [ "C:/mingw64/bin/ld" -m i386pep -Bdynamic -o cmTC_90c1b.exe C:/mingw64/x86_64-w64-mingw32/lib/crt2.o C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/crtbegin.o -LC:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0 -LC:/mingw64/x86_64-w64-mingw32/lib -LC:/mingw64/lib -LC:/mingw64/x86_64-w64-mingw32/sys-root/mingw/lib -v --whole-archive "CMakeFiles\\\\cmTC_90c1b.dir/objects.a" --no-whole-archive --out-implib libcmTC_90c1b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/crtend.o]
           arg [C:/mingw64/bin/ld] ==> ignore
           arg [-m] ==> ignore
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_99318.exe] ==> ignore
+          arg [cmTC_90c1b.exe] ==> ignore
           arg [C:/mingw64/x86_64-w64-mingw32/lib/crt2.o] ==> obj [C:/mingw64/x86_64-w64-mingw32/lib/crt2.o]
           arg [C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/crtbegin.o] ==> obj [C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/crtbegin.o]
           arg [-LC:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0] ==> dir [C:/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0]
@@ -191,10 +191,10 @@ events:
           arg [-LC:/mingw64/x86_64-w64-mingw32/sys-root/mingw/lib] ==> dir [C:/mingw64/x86_64-w64-mingw32/sys-root/mingw/lib]
           arg [-v] ==> ignore
           arg [--whole-archive] ==> ignore
-          arg [CMakeFiles\\\\cmTC_99318.dir/objects.a] ==> ignore
+          arg [CMakeFiles\\\\cmTC_90c1b.dir/objects.a] ==> ignore
           arg [--no-whole-archive] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_99318.dll.a] ==> ignore
+          arg [libcmTC_90c1b.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -256,8 +256,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-pswbw0"
-      binary: "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-pswbw0"
+      source: "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-uf04t2"
+      binary: "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-uf04t2"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/mingw64/bin/clang-scan-deps.exe"
       CMAKE_CXX_FLAGS: ""
@@ -268,27 +268,27 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-pswbw0'
+        Change Dir: 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-uf04t2'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_4bfc4/fast
-        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_4bfc4.dir\\build.make CMakeFiles/cmTC_4bfc4.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-pswbw0'
-        Building CXX object CMakeFiles/cmTC_4bfc4.dir/src.cxx.obj
-        C:\\mingw64\\bin\\clang++.exe -DCMAKE_HAVE_LIBC_PTHREAD  -std=gnu++17 -MD -MT CMakeFiles/cmTC_4bfc4.dir/src.cxx.obj -MF CMakeFiles\\cmTC_4bfc4.dir\\src.cxx.obj.d -o CMakeFiles\\cmTC_4bfc4.dir\\src.cxx.obj -c "C:\\Users\\henri\\OneDrive\\Valparaiso\\Objektorientert\\Tarea 3\\Tarea3QT-v4\\Tarea-3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pswbw0\\src.cxx"
-        Linking CXX executable cmTC_4bfc4.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_4bfc4.dir\\link.txt --verbose=1
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_4bfc4.dir/objects.a
-        C:\\mingw64\\bin\\llvm-ar.exe qc CMakeFiles\\cmTC_4bfc4.dir/objects.a @CMakeFiles\\cmTC_4bfc4.dir\\objects1.rsp
-        C:\\mingw64\\bin\\clang++.exe -Wl,--whole-archive CMakeFiles\\cmTC_4bfc4.dir/objects.a -Wl,--no-whole-archive -o cmTC_4bfc4.exe -Wl,--out-implib,libcmTC_4bfc4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_4bfc4.dir\\linkLibs.rsp
-        C:/mingw64/bin/ld: CMakeFiles\\cmTC_4bfc4.dir/objects.a(src.cxx.obj):src.cxx:(.text+0x2a): undefined reference to `pthread_create'
-        C:/mingw64/bin/ld: CMakeFiles\\cmTC_4bfc4.dir/objects.a(src.cxx.obj):src.cxx:(.text+0x33): undefined reference to `pthread_detach'
-        C:/mingw64/bin/ld: CMakeFiles\\cmTC_4bfc4.dir/objects.a(src.cxx.obj):src.cxx:(.text+0x3c): undefined reference to `pthread_cancel'
-        C:/mingw64/bin/ld: CMakeFiles\\cmTC_4bfc4.dir/objects.a(src.cxx.obj):src.cxx:(.text+0x49): undefined reference to `pthread_join'
-        C:/mingw64/bin/ld: CMakeFiles\\cmTC_4bfc4.dir/objects.a(src.cxx.obj):src.cxx:(.text+0x52): undefined reference to `pthread_exit'
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_9a8d6/fast
+        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_9a8d6.dir\\build.make CMakeFiles/cmTC_9a8d6.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-uf04t2'
+        Building CXX object CMakeFiles/cmTC_9a8d6.dir/src.cxx.obj
+        C:\\mingw64\\bin\\clang++.exe -DCMAKE_HAVE_LIBC_PTHREAD  -std=gnu++17 -MD -MT CMakeFiles/cmTC_9a8d6.dir/src.cxx.obj -MF CMakeFiles\\cmTC_9a8d6.dir\\src.cxx.obj.d -o CMakeFiles\\cmTC_9a8d6.dir\\src.cxx.obj -c "C:\\Users\\henri\\OneDrive\\Valparaiso\\Objektorientert\\Tarea 3\\Tarea new version\\Tarea-3-v1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-uf04t2\\src.cxx"
+        Linking CXX executable cmTC_9a8d6.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_9a8d6.dir\\link.txt --verbose=1
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_9a8d6.dir/objects.a
+        C:\\mingw64\\bin\\llvm-ar.exe qc CMakeFiles\\cmTC_9a8d6.dir/objects.a @CMakeFiles\\cmTC_9a8d6.dir\\objects1.rsp
+        C:\\mingw64\\bin\\clang++.exe -Wl,--whole-archive CMakeFiles\\cmTC_9a8d6.dir/objects.a -Wl,--no-whole-archive -o cmTC_9a8d6.exe -Wl,--out-implib,libcmTC_9a8d6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_9a8d6.dir\\linkLibs.rsp
+        C:/mingw64/bin/ld: CMakeFiles\\cmTC_9a8d6.dir/objects.a(src.cxx.obj):src.cxx:(.text+0x2a): undefined reference to `pthread_create'
+        C:/mingw64/bin/ld: CMakeFiles\\cmTC_9a8d6.dir/objects.a(src.cxx.obj):src.cxx:(.text+0x33): undefined reference to `pthread_detach'
+        C:/mingw64/bin/ld: CMakeFiles\\cmTC_9a8d6.dir/objects.a(src.cxx.obj):src.cxx:(.text+0x3c): undefined reference to `pthread_cancel'
+        C:/mingw64/bin/ld: CMakeFiles\\cmTC_9a8d6.dir/objects.a(src.cxx.obj):src.cxx:(.text+0x49): undefined reference to `pthread_join'
+        C:/mingw64/bin/ld: CMakeFiles\\cmTC_9a8d6.dir/objects.a(src.cxx.obj):src.cxx:(.text+0x52): undefined reference to `pthread_exit'
         clang++: error: linker command failed with exit code 1 (use -v to see invocation)
-        mingw32-make[1]: *** [CMakeFiles\\cmTC_4bfc4.dir\\build.make:104: cmTC_4bfc4.exe] Error 1
-        mingw32-make[1]: Leaving directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-pswbw0'
-        mingw32-make: *** [Makefile:133: cmTC_4bfc4/fast] Error 2
+        mingw32-make[1]: *** [CMakeFiles\\cmTC_9a8d6.dir\\build.make:104: cmTC_9a8d6.exe] Error 1
+        mingw32-make[1]: Leaving directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-uf04t2'
+        mingw32-make: *** [Makefile:133: cmTC_9a8d6/fast] Error 2
         
       exitCode: 2
   -
@@ -304,8 +304,8 @@ events:
     checks:
       - "Check if compiler accepts -pthread"
     directories:
-      source: "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-90if1j"
-      binary: "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-90if1j"
+      source: "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-pwb0zn"
+      binary: "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-pwb0zn"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/mingw64/bin/clang-scan-deps.exe"
       CMAKE_CXX_FLAGS: ""
@@ -316,19 +316,19 @@ events:
       variable: "THREADS_HAVE_PTHREAD_ARG"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-90if1j'
+        Change Dir: 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-pwb0zn'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_149bc/fast
-        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_149bc.dir\\build.make CMakeFiles/cmTC_149bc.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-90if1j'
-        Building CXX object CMakeFiles/cmTC_149bc.dir/CheckForPthreads.cxx.obj
-        C:\\mingw64\\bin\\clang++.exe   -std=gnu++17 -MD -MT CMakeFiles/cmTC_149bc.dir/CheckForPthreads.cxx.obj -MF CMakeFiles\\cmTC_149bc.dir\\CheckForPthreads.cxx.obj.d -o CMakeFiles\\cmTC_149bc.dir\\CheckForPthreads.cxx.obj -c "C:\\Users\\henri\\OneDrive\\Valparaiso\\Objektorientert\\Tarea 3\\Tarea3QT-v4\\Tarea-3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-90if1j\\CheckForPthreads.cxx"
-        Linking CXX executable cmTC_149bc.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_149bc.dir\\link.txt --verbose=1
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_149bc.dir/objects.a
-        C:\\mingw64\\bin\\llvm-ar.exe qc CMakeFiles\\cmTC_149bc.dir/objects.a @CMakeFiles\\cmTC_149bc.dir\\objects1.rsp
-        C:\\mingw64\\bin\\clang++.exe -Wl,--whole-archive CMakeFiles\\cmTC_149bc.dir/objects.a -Wl,--no-whole-archive -o cmTC_149bc.exe -Wl,--out-implib,libcmTC_149bc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_149bc.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-90if1j'
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_3af6d/fast
+        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_3af6d.dir\\build.make CMakeFiles/cmTC_3af6d.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-pwb0zn'
+        Building CXX object CMakeFiles/cmTC_3af6d.dir/CheckForPthreads.cxx.obj
+        C:\\mingw64\\bin\\clang++.exe   -std=gnu++17 -MD -MT CMakeFiles/cmTC_3af6d.dir/CheckForPthreads.cxx.obj -MF CMakeFiles\\cmTC_3af6d.dir\\CheckForPthreads.cxx.obj.d -o CMakeFiles\\cmTC_3af6d.dir\\CheckForPthreads.cxx.obj -c "C:\\Users\\henri\\OneDrive\\Valparaiso\\Objektorientert\\Tarea 3\\Tarea new version\\Tarea-3-v1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pwb0zn\\CheckForPthreads.cxx"
+        Linking CXX executable cmTC_3af6d.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_3af6d.dir\\link.txt --verbose=1
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_3af6d.dir/objects.a
+        C:\\mingw64\\bin\\llvm-ar.exe qc CMakeFiles\\cmTC_3af6d.dir/objects.a @CMakeFiles\\cmTC_3af6d.dir\\objects1.rsp
+        C:\\mingw64\\bin\\clang++.exe -Wl,--whole-archive CMakeFiles\\cmTC_3af6d.dir/objects.a -Wl,--no-whole-archive -o cmTC_3af6d.exe -Wl,--out-implib,libcmTC_3af6d.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_3af6d.dir\\linkLibs.rsp
+        mingw32-make[1]: Leaving directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-pwb0zn'
         
       exitCode: 0
   -
@@ -350,8 +350,8 @@ events:
     checks:
       - "Performing Test HAVE_STDATOMIC"
     directories:
-      source: "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-jo22ps"
-      binary: "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-jo22ps"
+      source: "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-rhwot6"
+      binary: "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-rhwot6"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/mingw64/bin/clang-scan-deps.exe"
       CMAKE_CXX_FLAGS: ""
@@ -362,19 +362,19 @@ events:
       variable: "HAVE_STDATOMIC"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-jo22ps'
+        Change Dir: 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-rhwot6'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_8de90/fast
-        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_8de90.dir\\build.make CMakeFiles/cmTC_8de90.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-jo22ps'
-        Building CXX object CMakeFiles/cmTC_8de90.dir/src.cxx.obj
-        C:\\mingw64\\bin\\clang++.exe -DHAVE_STDATOMIC  -std=gnu++17 -MD -MT CMakeFiles/cmTC_8de90.dir/src.cxx.obj -MF CMakeFiles\\cmTC_8de90.dir\\src.cxx.obj.d -o CMakeFiles\\cmTC_8de90.dir\\src.cxx.obj -c "C:\\Users\\henri\\OneDrive\\Valparaiso\\Objektorientert\\Tarea 3\\Tarea3QT-v4\\Tarea-3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jo22ps\\src.cxx"
-        Linking CXX executable cmTC_8de90.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_8de90.dir\\link.txt --verbose=1
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_8de90.dir/objects.a
-        C:\\mingw64\\bin\\llvm-ar.exe qc CMakeFiles\\cmTC_8de90.dir/objects.a @CMakeFiles\\cmTC_8de90.dir\\objects1.rsp
-        C:\\mingw64\\bin\\clang++.exe -Wl,--whole-archive CMakeFiles\\cmTC_8de90.dir/objects.a -Wl,--no-whole-archive -o cmTC_8de90.exe -Wl,--out-implib,libcmTC_8de90.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_8de90.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/CMakeScratch/TryCompile-jo22ps'
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_22a88/fast
+        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_22a88.dir\\build.make CMakeFiles/cmTC_22a88.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-rhwot6'
+        Building CXX object CMakeFiles/cmTC_22a88.dir/src.cxx.obj
+        C:\\mingw64\\bin\\clang++.exe -DHAVE_STDATOMIC  -std=gnu++17 -MD -MT CMakeFiles/cmTC_22a88.dir/src.cxx.obj -MF CMakeFiles\\cmTC_22a88.dir\\src.cxx.obj.d -o CMakeFiles\\cmTC_22a88.dir\\src.cxx.obj -c "C:\\Users\\henri\\OneDrive\\Valparaiso\\Objektorientert\\Tarea 3\\Tarea new version\\Tarea-3-v1\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rhwot6\\src.cxx"
+        Linking CXX executable cmTC_22a88.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_22a88.dir\\link.txt --verbose=1
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_22a88.dir/objects.a
+        C:\\mingw64\\bin\\llvm-ar.exe qc CMakeFiles\\cmTC_22a88.dir/objects.a @CMakeFiles\\cmTC_22a88.dir\\objects1.rsp
+        C:\\mingw64\\bin\\clang++.exe -Wl,--whole-archive CMakeFiles\\cmTC_22a88.dir/objects.a -Wl,--no-whole-archive -o cmTC_22a88.exe -Wl,--out-implib,libcmTC_22a88.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_22a88.dir\\linkLibs.rsp
+        mingw32-make[1]: Leaving directory 'C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/CMakeScratch/TryCompile-rhwot6'
         
       exitCode: 0
 ...

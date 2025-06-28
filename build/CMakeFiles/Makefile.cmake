@@ -356,7 +356,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake"
   "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake"
   "C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessAliasTargets.cmake"
-  "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/CMakeLists.txt"
+  "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/CMakeLists.txt"
   "CMakeFiles/4.0.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/4.0.3/CMakeRCCompiler.cmake"
   "CMakeFiles/4.0.3/CMakeSystem.cmake"

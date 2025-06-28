@@ -1,5 +1,5 @@
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/build/Tarea3Etapa4_autogen/3SFGERZ263/moc_GPSCarPublisher.cpp: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/include/GPSCarPublisher.h \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/build/Tarea3Etapa4_autogen/moc_predefs.h \
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/build/Tarea3Etapa4_autogen/3SFGERZ263/moc_GPSCarPublisher.cpp: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/include/GPSCarPublisher.h \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/build/Tarea3Etapa4_autogen/moc_predefs.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QObject \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QPointF \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QVector \
@@ -161,8 +161,8 @@ C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/
   C:/Qt/6.9.1/mingw_64/include/QtWidgets/qtwidgetsexports.h \
   C:/Qt/6.9.1/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
   C:/Qt/6.9.1/mingw_64/include/QtWidgets/qwidget.h \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/include/Component.h \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/include/Publisher.h \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/include/Component.h \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/include/Publisher.h \
   C:/mingw64/include/c++/12.1.0/algorithm \
   C:/mingw64/include/c++/12.1.0/array \
   C:/mingw64/include/c++/12.1.0/atomic \

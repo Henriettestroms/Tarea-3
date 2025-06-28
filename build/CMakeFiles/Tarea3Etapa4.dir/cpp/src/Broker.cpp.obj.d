@@ -1,6 +1,6 @@
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Broker.cpp.obj: \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/Broker.cpp \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/Broker.h \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/Broker.cpp \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/Broker.h \
   C:/mingw64/include/c++/12.1.0/vector \
   C:/mingw64/include/c++/12.1.0/bits/stl_algobase.h \
   C:/mingw64/include/c++/12.1.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -116,6 +116,6 @@ CMakeFiles/Tarea3Etapa4.dir/cpp/src/Broker.cpp.obj: \
   C:/mingw64/include/c++/12.1.0/cerrno \
   C:/mingw64/include/c++/12.1.0/bits/charconv.h \
   C:/mingw64/include/c++/12.1.0/bits/basic_string.tcc \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/Topic.h \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/Subscriber.h \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/Component.h
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/Topic.h \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/Subscriber.h \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/Component.h

@@ -1,43 +1,43 @@
-## VSCode
-#.vscode/
-#*.code-workspace
+# VSCode
+.vscode/
+*.code-workspace
 
-## Build artifacts
-#build/
-#CMakeFiles/
-#CMakeCache.txt
-#cmake_install.cmake
-#Makefile
+# Build artifacts
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
 
-## Qt generated files
-#*.user
-#*.pro.user*
-#*.qmake.stash
-#*.qmake.cache
-#*.autosave
+# Qt generated files
+*.user
+*.pro.user*
+*.qmake.stash
+*.qmake.cache
+*.autosave
 
-## Compiled object files
-#*.o
-#*.obj
-#*.lo
-#*.la
-#*.al
-#*.libs
-#*.so
-#*.so.*
-#*.a
-#*.dll
-#*.dylib
-#*.exe
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+*.so
+*.so.*
+*.a
+*.dll
+*.dylib
+*.exe
 
-## moc, ui and rcc generated files
-#moc_*.cpp
-#ui_*.h
-#qrc_*.cpp
+# moc, ui and rcc generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
 
-## Log files
-#*.log
+# Log files
+*.log
 
-## OS-specific
-#.DS_Store
-#Thumbs.db
+# OS-specific
+.DS_Store
+Thumbs.db

@@ -1,8 +1,8 @@
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarPublisher.cpp.obj: \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/GPSCarPublisher.cpp \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/GPSCarPublisher.h \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/Publisher.h \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/Component.h \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/GPSCarPublisher.cpp \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/GPSCarPublisher.h \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/Publisher.h \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/Component.h \
   C:/mingw64/include/c++/12.1.0/string \
   C:/mingw64/include/c++/12.1.0/x86_64-w64-mingw32/bits/c++config.h \
   C:/mingw64/include/c++/12.1.0/x86_64-w64-mingw32/bits/os_defines.h \
@@ -382,7 +382,7 @@ CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarPublisher.cpp.obj: \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QVector \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qvector.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QPointF \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/Broker.h \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/Broker.h \
   C:/Qt/6.9.1/mingw_64/include/QtWidgets/QVBoxLayout \
   C:/Qt/6.9.1/mingw_64/include/QtWidgets/qboxlayout.h \
   C:/Qt/6.9.1/mingw_64/include/QtWidgets/qlayout.h \

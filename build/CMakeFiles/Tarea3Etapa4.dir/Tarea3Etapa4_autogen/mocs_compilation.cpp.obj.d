@@ -1,9 +1,9 @@
 CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.obj: \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/build/Tarea3Etapa4_autogen/mocs_compilation.cpp \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/build/Tarea3Etapa4_autogen/3SFGERZ263/moc_GPSCarPublisher.cpp \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/build/Tarea3Etapa4_autogen/3SFGERZ263/../../../cpp/include/GPSCarPublisher.h \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/Publisher.h \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/Component.h \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/build/Tarea3Etapa4_autogen/mocs_compilation.cpp \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/build/Tarea3Etapa4_autogen/3SFGERZ263/moc_GPSCarPublisher.cpp \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/build/Tarea3Etapa4_autogen/3SFGERZ263/../../../cpp/include/GPSCarPublisher.h \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/Publisher.h \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/Component.h \
   C:/mingw64/include/c++/12.1.0/string \
   C:/mingw64/include/c++/12.1.0/x86_64-w64-mingw32/bits/c++config.h \
   C:/mingw64/include/c++/12.1.0/x86_64-w64-mingw32/bits/os_defines.h \

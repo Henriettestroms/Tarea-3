@@ -512,26 +512,26 @@ Tarea3Etapa4_autogen/timestamp: C:/Program\ Files/CMake/bin/cmake.exe \
   C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake \
   C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake \
   C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessAliasTargets.cmake \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/CMakeLists.txt \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/CMakeLists.txt \
   CMakeFiles/4.0.3/CMakeCXXCompiler.cmake \
   CMakeFiles/4.0.3/CMakeRCCompiler.cmake \
   CMakeFiles/4.0.3/CMakeSystem.cmake \
   Tarea3Etapa4_autogen/moc_predefs.h \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/Stage1/src/Stage1.cpp \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/include/Component.h \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/include/GPSCarPublisher.h \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/include/GPSFollower.h \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/include/Publisher.h \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/Broker.cpp \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/Component.cpp \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/GPSCarPublisher.cpp \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/GPSCarSubscriber.cpp \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/GPSFollower.cpp \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/Publisher.cpp \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/Subscriber.cpp \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/Topic.cpp \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/VideoFollower.cpp \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/VideoPublisher.cpp \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/Stage1/src/Stage1.cpp \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/include/Component.h \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/include/GPSCarPublisher.h \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/include/GPSFollower.h \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/include/Publisher.h \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/Broker.cpp \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/Component.cpp \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/GPSCarPublisher.cpp \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/GPSCarSubscriber.cpp \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/GPSFollower.cpp \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/Publisher.cpp \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/Subscriber.cpp \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/Topic.cpp \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/VideoFollower.cpp \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/VideoPublisher.cpp \
   C:/mingw64/include/c++/12.1.0/algorithm \
   C:/mingw64/include/c++/12.1.0/array \
   C:/mingw64/include/c++/12.1.0/atomic \
@@ -764,8 +764,6 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qfloat16.h:
 
 C:/mingw64/include/c++/12.1.0/bits/alloc_traits.h:
 
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/Broker.cpp:
-
 C:/Program\ Files/CMake/share/cmake-4.0/Modules/CMakeParseImplicitIncludeInfo.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake:
@@ -855,6 +853,8 @@ C:/Program\ Files/CMake/share/cmake-4.0/Modules/Platform/Linker/GNU.cmake:
 C:/Program\ Files/CMake/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake:
 
 C:/Program\ Files/CMake/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake:
+
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/include/Component.h:
 
 C:/Program\ Files/CMake/share/cmake-4.0/Modules/CMakeParseImplicitLinkInfo.cmake:
 
@@ -1092,8 +1092,6 @@ C:/Program\ Files/CMake/share/cmake-4.0/Modules/Internal/CMakeDetermineLinkerId.
 
 C:/mingw64/include/c++/12.1.0/stdexcept:
 
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/VideoFollower.cpp:
-
 C:/Program\ Files/CMake/share/cmake-4.0/Modules/Internal/CMakeInspectCXXLinker.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CorePrivate/Qt6CorePrivateTargets.cmake:
@@ -1250,6 +1248,8 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qcontiguouscache.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qdarwinhelpers.h:
 
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/include/GPSFollower.h:
+
 C:/Qt/6.9.1/mingw_64/include/QtCore/qdatastream.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qstringfwd.h:
@@ -1277,6 +1277,8 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qgenericatomic.h:
 C:/mingw64/include/c++/12.1.0/bits/node_handle.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qglobalstatic.h:
+
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/Stage1/src/Stage1.cpp:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qhash.h:
 
@@ -1347,8 +1349,6 @@ C:/Qt/6.9.1/mingw_64/include/QtCore/qobjectdefs_impl.h:
 C:/Qt/6.9.1/mingw_64/include/QtCore/qoverload.h:
 
 C:/Qt/6.9.1/mingw_64/include/QtGui/qfontmetrics.h:
-
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/GPSCarPublisher.cpp:
 
 C:/Qt/6.9.1/mingw_64/include/QtCore/qpair.h:
 
@@ -1516,6 +1516,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtGui/qbrush.h:
 
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/Component.cpp:
+
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/include/QtGui/qcursor.h:
@@ -1545,6 +1547,8 @@ C:/Qt/6.9.1/mingw_64/include/QtGui/qtgui-config.h:
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6MultimediaWidgets/Qt6MultimediaWidgetsDependencies.cmake:
 
 C:/mingw64/include/c++/12.1.0/bits/shared_ptr_atomic.h:
+
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/Broker.cpp:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6MultimediaPrivate/Qt6MultimediaPrivateDependencies.cmake:
 
@@ -1644,6 +1648,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake:
 
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/GPSCarPublisher.cpp:
+
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers_v2.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomDepHelpers.cmake:
@@ -1661,6 +1667,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomPurlHelpers.cmake:
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicSbomQtEntityHelpers.cmake:
+
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/VideoFollower.cpp:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake:
 
@@ -1719,6 +1727,8 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6MultimediaWidgetsPrivate/Qt6MultimediaWidgetsP
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersionImpl.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets-relwithdebinfo.cmake:
+
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/Publisher.cpp:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake:
 
@@ -1926,7 +1936,9 @@ C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake:
 
 C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessAliasTargets.cmake:
 
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/CMakeLists.txt:
+C:/mingw64/include/c++/12.1.0/bits/locale_classes.tcc:
+
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/CMakeLists.txt:
 
 CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
@@ -1940,33 +1952,21 @@ C:/mingw64/include/c++/12.1.0/bits/stl_raw_storage_iter.h:
 
 Tarea3Etapa4_autogen/moc_predefs.h:
 
-C:/mingw64/x86_64-w64-mingw32/include/stdio.h:
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/include/GPSCarPublisher.h:
 
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/Stage1/src/Stage1.cpp:
+C:/mingw64/include/c++/12.1.0/bits/allocated_ptr.h:
 
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/include/Component.h:
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/include/Publisher.h:
 
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/include/GPSCarPublisher.h:
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/GPSCarSubscriber.cpp:
 
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/include/GPSFollower.h:
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/GPSFollower.cpp:
 
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/include/Publisher.h:
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/Subscriber.cpp:
 
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/Component.cpp:
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/Topic.cpp:
 
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/GPSCarSubscriber.cpp:
-
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/GPSFollower.cpp:
-
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/Publisher.cpp:
-
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/Subscriber.cpp:
-
-C:/mingw64/include/c++/12.1.0/bits/move.h:
-
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/Topic.cpp:
-
-C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/VideoPublisher.cpp:
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/VideoPublisher.cpp:
 
 C:/mingw64/include/c++/12.1.0/algorithm:
 
@@ -1981,8 +1981,6 @@ C:/mingw64/include/c++/12.1.0/variant:
 C:/mingw64/include/c++/12.1.0/bits/list.tcc:
 
 C:/mingw64/include/c++/12.1.0/bits/algorithmfwd.h:
-
-C:/mingw64/include/c++/12.1.0/bits/allocated_ptr.h:
 
 C:/mingw64/include/c++/12.1.0/bits/atomic_base.h:
 
@@ -2020,9 +2018,9 @@ C:/mingw64/include/c++/12.1.0/bits/ios_base.h:
 
 C:/mingw64/include/c++/12.1.0/bits/locale_classes.h:
 
-C:/mingw64/include/c++/12.1.0/bits/locale_classes.tcc:
-
 C:/mingw64/include/c++/12.1.0/bits/localefwd.h:
+
+C:/mingw64/include/c++/12.1.0/bits/move.h:
 
 C:/mingw64/include/c++/12.1.0/bits/utility.h:
 
@@ -2215,6 +2213,8 @@ C:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h:
 C:/mingw64/x86_64-w64-mingw32/include/sec_api/wchar_s.h:
 
 C:/mingw64/x86_64-w64-mingw32/include/signal.h:
+
+C:/mingw64/x86_64-w64-mingw32/include/stdio.h:
 
 C:/mingw64/x86_64-w64-mingw32/include/sys/types.h:
 

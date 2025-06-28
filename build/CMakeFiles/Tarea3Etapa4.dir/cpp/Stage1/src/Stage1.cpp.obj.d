@@ -1,5 +1,5 @@
 CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.obj: \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/Stage1/src/Stage1.cpp \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/Stage1/src/Stage1.cpp \
   C:/Qt/6.9.1/mingw_64/include/QtWidgets/QApplication \
   C:/Qt/6.9.1/mingw_64/include/QtWidgets/qapplication.h \
   C:/Qt/6.9.1/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
@@ -412,16 +412,16 @@ CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.obj: \
   C:/Qt/6.9.1/mingw_64/include/QtWidgets/qgridlayout.h \
   C:/Qt/6.9.1/mingw_64/include/QtWidgets/QHBoxLayout \
   C:/Qt/6.9.1/mingw_64/include/QtWidgets/QWidget \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/Broker.h \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/VideoPublisher.h \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/Publisher.h \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/Component.h \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/VideoFollower.h \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/Subscriber.h \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/Broker.h \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/VideoPublisher.h \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/Publisher.h \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/Component.h \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/VideoFollower.h \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/Subscriber.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QString \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/GPSCarPublisher.h \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/GPSCarPublisher.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QObject \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QVector \
   C:/Qt/6.9.1/mingw_64/include/QtCore/qvector.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/QPointF \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/GPSFollower.h
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/GPSFollower.h

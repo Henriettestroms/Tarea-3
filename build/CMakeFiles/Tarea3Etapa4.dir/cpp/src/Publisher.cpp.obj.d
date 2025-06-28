@@ -1,7 +1,7 @@
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.obj: \
-  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/Publisher.cpp \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/Publisher.h \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/Component.h \
+  C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/Publisher.cpp \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/Publisher.h \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/Component.h \
   C:/mingw64/include/c++/12.1.0/string \
   C:/mingw64/include/c++/12.1.0/x86_64-w64-mingw32/bits/c++config.h \
   C:/mingw64/include/c++/12.1.0/x86_64-w64-mingw32/bits/os_defines.h \
@@ -112,10 +112,10 @@ CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.obj: \
   C:/mingw64/include/c++/12.1.0/cerrno \
   C:/mingw64/include/c++/12.1.0/bits/charconv.h \
   C:/mingw64/include/c++/12.1.0/bits/basic_string.tcc \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/Broker.h \
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/Broker.h \
   C:/mingw64/include/c++/12.1.0/vector \
   C:/mingw64/include/c++/12.1.0/bits/stl_uninitialized.h \
   C:/mingw64/include/c++/12.1.0/bits/stl_vector.h \
   C:/mingw64/include/c++/12.1.0/bits/stl_bvector.h \
   C:/mingw64/include/c++/12.1.0/bits/vector.tcc \
-  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREA3~2/Tarea-3/cpp/include/Topic.h
+  C:/Users/henri/OneDrive/VALPAR~1/OBJEKT~1/TAREA3~1/TAREAN~1/TAREA-~1/cpp/include/Topic.h

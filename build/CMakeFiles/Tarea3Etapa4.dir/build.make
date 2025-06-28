@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3"
+CMAKE_SOURCE_DIR = "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build"
+CMAKE_BINARY_DIR = "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Tarea3Etapa4.dir/depend.make
@@ -70,9 +70,9 @@ include CMakeFiles/Tarea3Etapa4.dir/flags.make
 
 Tarea3Etapa4_autogen/timestamp: C:/Qt/6.9.1/mingw_64/bin/moc.exe
 Tarea3Etapa4_autogen/timestamp: CMakeFiles/Tarea3Etapa4.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target Tarea3Etapa4"
-	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_autogen "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/Tarea3Etapa4_autogen.dir/AutogenInfo.json" ""
-	"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/Tarea3Etapa4_autogen/timestamp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target Tarea3Etapa4"
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_autogen "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/Tarea3Etapa4_autogen.dir/AutogenInfo.json" ""
+	"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/Tarea3Etapa4_autogen/timestamp"
 
 CMakeFiles/Tarea3Etapa4.dir/codegen:
 .PHONY : CMakeFiles/Tarea3Etapa4.dir/codegen
@@ -81,181 +81,181 @@ CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.obj: CMake
 CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp
 CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.obj: Tarea3Etapa4_autogen/mocs_compilation.cpp
 CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.obj"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\Tarea3Etapa4_autogen\mocs_compilation.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\Tarea3Etapa4_autogen\mocs_compilation.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\Tarea3Etapa4_autogen\mocs_compilation.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.obj"
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\Tarea3Etapa4_autogen\mocs_compilation.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\Tarea3Etapa4_autogen\mocs_compilation.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\Tarea3Etapa4_autogen\mocs_compilation.cpp"
 
 CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.i"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\Tarea3Etapa4_autogen\mocs_compilation.cpp" > CMakeFiles\Tarea3Etapa4.dir\Tarea3Etapa4_autogen\mocs_compilation.cpp.i
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\Tarea3Etapa4_autogen\mocs_compilation.cpp" > CMakeFiles\Tarea3Etapa4.dir\Tarea3Etapa4_autogen\mocs_compilation.cpp.i
 
 CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Tarea3Etapa4.dir/Tarea3Etapa4_autogen/mocs_compilation.cpp.s"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\Tarea3Etapa4_autogen\mocs_compilation.cpp" -o CMakeFiles\Tarea3Etapa4.dir\Tarea3Etapa4_autogen\mocs_compilation.cpp.s
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\Tarea3Etapa4_autogen\mocs_compilation.cpp" -o CMakeFiles\Tarea3Etapa4.dir\Tarea3Etapa4_autogen\mocs_compilation.cpp.s
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/flags.make
 CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp
-CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/Stage1/src/Stage1.cpp
+CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/Stage1/src/Stage1.cpp
 CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.obj"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\Stage1\src\Stage1.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\Stage1\src\Stage1.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\Stage1\src\Stage1.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.obj"
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\Stage1\src\Stage1.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\Stage1\src\Stage1.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\Stage1\src\Stage1.cpp"
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.i"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\Stage1\src\Stage1.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\Stage1\src\Stage1.cpp.i
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\Stage1\src\Stage1.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\Stage1\src\Stage1.cpp.i
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.s"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\Stage1\src\Stage1.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\Stage1\src\Stage1.cpp.s
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\Stage1\src\Stage1.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\Stage1\src\Stage1.cpp.s
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Broker.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/flags.make
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Broker.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp
-CMakeFiles/Tarea3Etapa4.dir/cpp/src/Broker.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/Broker.cpp
+CMakeFiles/Tarea3Etapa4.dir/cpp/src/Broker.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/Broker.cpp
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Broker.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/Broker.cpp.obj"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/Broker.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\Broker.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Broker.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\Broker.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/Broker.cpp.obj"
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/Broker.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\Broker.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Broker.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\Broker.cpp"
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Broker.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Tarea3Etapa4.dir/cpp/src/Broker.cpp.i"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\Broker.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\Broker.cpp.i
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\Broker.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\Broker.cpp.i
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Broker.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Tarea3Etapa4.dir/cpp/src/Broker.cpp.s"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\Broker.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Broker.cpp.s
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\Broker.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Broker.cpp.s
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarPublisher.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/flags.make
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarPublisher.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp
-CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarPublisher.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/GPSCarPublisher.cpp
+CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarPublisher.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/GPSCarPublisher.cpp
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarPublisher.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarPublisher.cpp.obj"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarPublisher.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSCarPublisher.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSCarPublisher.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\GPSCarPublisher.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarPublisher.cpp.obj"
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarPublisher.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSCarPublisher.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSCarPublisher.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\GPSCarPublisher.cpp"
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarPublisher.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarPublisher.cpp.i"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\GPSCarPublisher.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSCarPublisher.cpp.i
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\GPSCarPublisher.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSCarPublisher.cpp.i
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarPublisher.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarPublisher.cpp.s"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\GPSCarPublisher.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSCarPublisher.cpp.s
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\GPSCarPublisher.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSCarPublisher.cpp.s
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarSubscriber.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/flags.make
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarSubscriber.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp
-CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarSubscriber.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/GPSCarSubscriber.cpp
+CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarSubscriber.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/GPSCarSubscriber.cpp
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarSubscriber.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarSubscriber.cpp.obj"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarSubscriber.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSCarSubscriber.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSCarSubscriber.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\GPSCarSubscriber.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarSubscriber.cpp.obj"
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarSubscriber.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSCarSubscriber.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSCarSubscriber.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\GPSCarSubscriber.cpp"
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarSubscriber.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarSubscriber.cpp.i"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\GPSCarSubscriber.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSCarSubscriber.cpp.i
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\GPSCarSubscriber.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSCarSubscriber.cpp.i
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarSubscriber.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarSubscriber.cpp.s"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\GPSCarSubscriber.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSCarSubscriber.cpp.s
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\GPSCarSubscriber.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSCarSubscriber.cpp.s
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoPublisher.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/flags.make
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoPublisher.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp
-CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoPublisher.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/VideoPublisher.cpp
+CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoPublisher.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/VideoPublisher.cpp
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoPublisher.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoPublisher.cpp.obj"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoPublisher.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\VideoPublisher.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\VideoPublisher.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\VideoPublisher.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoPublisher.cpp.obj"
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoPublisher.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\VideoPublisher.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\VideoPublisher.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\VideoPublisher.cpp"
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoPublisher.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoPublisher.cpp.i"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\VideoPublisher.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\VideoPublisher.cpp.i
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\VideoPublisher.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\VideoPublisher.cpp.i
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoPublisher.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoPublisher.cpp.s"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\VideoPublisher.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\VideoPublisher.cpp.s
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\VideoPublisher.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\VideoPublisher.cpp.s
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoFollower.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/flags.make
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoFollower.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp
-CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoFollower.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/VideoFollower.cpp
+CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoFollower.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/VideoFollower.cpp
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoFollower.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoFollower.cpp.obj"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoFollower.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\VideoFollower.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\VideoFollower.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\VideoFollower.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoFollower.cpp.obj"
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoFollower.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\VideoFollower.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\VideoFollower.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\VideoFollower.cpp"
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoFollower.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoFollower.cpp.i"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\VideoFollower.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\VideoFollower.cpp.i
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\VideoFollower.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\VideoFollower.cpp.i
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoFollower.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoFollower.cpp.s"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\VideoFollower.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\VideoFollower.cpp.s
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\VideoFollower.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\VideoFollower.cpp.s
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Component.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/flags.make
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Component.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp
-CMakeFiles/Tarea3Etapa4.dir/cpp/src/Component.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/Component.cpp
+CMakeFiles/Tarea3Etapa4.dir/cpp/src/Component.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/Component.cpp
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Component.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/Component.cpp.obj"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/Component.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\Component.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Component.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\Component.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/Component.cpp.obj"
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/Component.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\Component.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Component.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\Component.cpp"
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Component.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Tarea3Etapa4.dir/cpp/src/Component.cpp.i"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\Component.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\Component.cpp.i
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\Component.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\Component.cpp.i
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Component.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Tarea3Etapa4.dir/cpp/src/Component.cpp.s"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\Component.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Component.cpp.s
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\Component.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Component.cpp.s
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/flags.make
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp
-CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/Publisher.cpp
+CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/Publisher.cpp
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.obj"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\Publisher.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Publisher.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\Publisher.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.obj"
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\Publisher.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Publisher.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\Publisher.cpp"
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.i"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\Publisher.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\Publisher.cpp.i
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\Publisher.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\Publisher.cpp.i
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.s"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\Publisher.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Publisher.cpp.s
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\Publisher.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Publisher.cpp.s
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Subscriber.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/flags.make
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Subscriber.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp
-CMakeFiles/Tarea3Etapa4.dir/cpp/src/Subscriber.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/Subscriber.cpp
+CMakeFiles/Tarea3Etapa4.dir/cpp/src/Subscriber.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/Subscriber.cpp
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Subscriber.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/Subscriber.cpp.obj"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/Subscriber.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\Subscriber.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Subscriber.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\Subscriber.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/Subscriber.cpp.obj"
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/Subscriber.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\Subscriber.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Subscriber.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\Subscriber.cpp"
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Subscriber.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Tarea3Etapa4.dir/cpp/src/Subscriber.cpp.i"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\Subscriber.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\Subscriber.cpp.i
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\Subscriber.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\Subscriber.cpp.i
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Subscriber.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Tarea3Etapa4.dir/cpp/src/Subscriber.cpp.s"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\Subscriber.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Subscriber.cpp.s
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\Subscriber.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Subscriber.cpp.s
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Topic.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/flags.make
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Topic.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp
-CMakeFiles/Tarea3Etapa4.dir/cpp/src/Topic.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/Topic.cpp
+CMakeFiles/Tarea3Etapa4.dir/cpp/src/Topic.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/Topic.cpp
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Topic.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/Topic.cpp.obj"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/Topic.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\Topic.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Topic.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\Topic.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/Topic.cpp.obj"
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/Topic.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\Topic.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Topic.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\Topic.cpp"
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Topic.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Tarea3Etapa4.dir/cpp/src/Topic.cpp.i"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\Topic.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\Topic.cpp.i
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\Topic.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\Topic.cpp.i
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/Topic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Tarea3Etapa4.dir/cpp/src/Topic.cpp.s"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\Topic.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Topic.cpp.s
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\Topic.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\Topic.cpp.s
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/flags.make
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp
-CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea3QT-v4/Tarea-3/cpp/src/GPSFollower.cpp
+CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.obj: C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea\ 3/Tarea\ new\ version/Tarea-3-v1/cpp/src/GPSFollower.cpp
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.obj: CMakeFiles/Tarea3Etapa4.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.obj"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSFollower.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSFollower.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\GPSFollower.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.obj"
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.obj -MF CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSFollower.cpp.obj.d -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSFollower.cpp.obj -c "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\GPSFollower.cpp"
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.i"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\GPSFollower.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSFollower.cpp.i
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\GPSFollower.cpp" > CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSFollower.cpp.i
 
 CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSFollower.cpp.s"
-	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\cpp\src\GPSFollower.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSFollower.cpp.s
+	C:\mingw64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\cpp\src\GPSFollower.cpp" -o CMakeFiles\Tarea3Etapa4.dir\cpp\src\GPSFollower.cpp.s
 
 # Object files for target Tarea3Etapa4
 Tarea3Etapa4_OBJECTS = \
@@ -297,7 +297,7 @@ Tarea3Etapa4.exe: C:/Qt/6.9.1/mingw_64/lib/libQt6Core.a
 Tarea3Etapa4.exe: CMakeFiles/Tarea3Etapa4.dir/linkLibs.rsp
 Tarea3Etapa4.exe: CMakeFiles/Tarea3Etapa4.dir/objects1.rsp
 Tarea3Etapa4.exe: CMakeFiles/Tarea3Etapa4.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable Tarea3Etapa4.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable Tarea3Etapa4.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Tarea3Etapa4.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -309,6 +309,6 @@ CMakeFiles/Tarea3Etapa4.dir/clean:
 .PHONY : CMakeFiles/Tarea3Etapa4.dir/clean
 
 CMakeFiles/Tarea3Etapa4.dir/depend: Tarea3Etapa4_autogen/timestamp
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3" "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3" "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build" "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build" "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea3QT-v4\Tarea-3\build\CMakeFiles\Tarea3Etapa4.dir\DependInfo.cmake" "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1" "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1" "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build" "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build" "C:\Users\henri\OneDrive\Valparaiso\Objektorientert\Tarea 3\Tarea new version\Tarea-3-v1\build\CMakeFiles\Tarea3Etapa4.dir\DependInfo.cmake" "--color=$(COLOR)"
 .PHONY : CMakeFiles/Tarea3Etapa4.dir/depend
 

@@ -1,16 +1,16 @@
 {
 	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
-	"BUILD_DIR" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/Tarea3Etapa4_autogen",
-	"CMAKE_BINARY_DIR" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build",
-	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build",
-	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3",
+	"BUILD_DIR" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/Tarea3Etapa4_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1",
 	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
-		"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/CMakeLists.txt",
+		"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/CMakeLists.txt",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineSystem.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeSystem.cmake.in",
-		"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/4.0.3/CMakeSystem.cmake",
+		"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/4.0.3/CMakeSystem.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeMinGWFindMake.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-Initialize.cmake",
@@ -64,7 +64,7 @@
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeFindBinUtils.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/Clang-FindBinUtils.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCXXCompiler.cmake.in",
-		"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/4.0.3/CMakeCXXCompiler.cmake",
+		"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/4.0.3/CMakeCXXCompiler.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeGenericSystem.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake",
@@ -82,7 +82,7 @@
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-GNU.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineRCCompiler.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeRCCompiler.cmake.in",
-		"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/4.0.3/CMakeRCCompiler.cmake",
+		"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/4.0.3/CMakeRCCompiler.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeRCInformation.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-windres.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestRCCompiler.cmake",
@@ -99,7 +99,7 @@
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerSupport.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/FeatureTesting.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCXXCompiler.cmake.in",
-		"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/4.0.3/CMakeCXXCompiler.cmake",
+		"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/4.0.3/CMakeCXXCompiler.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake",
@@ -446,28 +446,28 @@
 		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6MultimediaWidgetsPrivate/Qt6MultimediaWidgetsPrivateVersionlessAliasTargets.cmake",
 		"C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6MultimediaWidgets/Qt6MultimediaWidgetsVersionlessAliasTargets.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3",
+	"CMAKE_SOURCE_DIR" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/Tarea3Etapa4_autogen/deps",
+	"DEP_FILE" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/Tarea3Etapa4_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "Tarea3Etapa4_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/cpp/include/GPSCarPublisher.h",
+			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/include/GPSCarPublisher.h",
 			"Mu",
 			"3SFGERZ263/moc_GPSCarPublisher.cpp",
 			null
 		],
 		[
-			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/cpp/include/GPSFollower.h",
+			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/include/GPSFollower.h",
 			"Mu",
 			"3SFGERZ263/moc_GPSFollower.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/Tarea3Etapa4_autogen/include",
-	"MOC_COMPILATION_FILE" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/Tarea3Etapa4_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/Tarea3Etapa4_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/Tarea3Etapa4_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"MINGW_HAS_SECURE_API=1",
@@ -494,8 +494,8 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/cpp",
-		"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/cpp/include",
+		"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp",
+		"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/include",
 		"C:/Qt/6.9.1/mingw_64/include/QtWidgets",
 		"C:/Qt/6.9.1/mingw_64/include",
 		"C:/Qt/6.9.1/mingw_64/include/QtCore",
@@ -531,71 +531,71 @@
 		"-E",
 		"C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/Tarea3Etapa4_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/Tarea3Etapa4_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 4,
-	"PARSE_CACHE_FILE" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/Tarea3Etapa4_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/Tarea3Etapa4_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "C:/Qt/6.9.1/mingw_64/bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 9,
-	"SETTINGS_FILE" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/build/CMakeFiles/Tarea3Etapa4_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/Tarea3Etapa4_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/cpp/Stage1/src/Stage1.cpp",
+			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/Stage1/src/Stage1.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/cpp/src/Broker.cpp",
+			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/Broker.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/cpp/src/Component.cpp",
+			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/Component.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/cpp/src/GPSCarPublisher.cpp",
+			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/GPSCarPublisher.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/cpp/src/GPSCarSubscriber.cpp",
+			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/GPSCarSubscriber.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/cpp/src/GPSFollower.cpp",
+			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/GPSFollower.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/cpp/src/Publisher.cpp",
+			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/Publisher.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/cpp/src/Subscriber.cpp",
+			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/Subscriber.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/cpp/src/Topic.cpp",
+			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/Topic.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/cpp/src/VideoFollower.cpp",
+			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/VideoFollower.cpp",
 			"Mu",
 			null
 		],
 		[
-			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea3QT-v4/Tarea-3/cpp/src/VideoPublisher.cpp",
+			"C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/VideoPublisher.cpp",
 			"Mu",
 			null
 		]
