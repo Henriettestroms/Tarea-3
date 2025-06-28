@@ -1,0 +1,3 @@
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/Tarea3Etapa4.dir
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/edit_cache.dir
+C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build/CMakeFiles/rebuild_cache.dir

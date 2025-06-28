@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Tarea3Etapa4.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\Tarea3Etapa4.dir/objects.a @CMakeFiles\Tarea3Etapa4.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Tarea3Etapa4.dir/objects.a -Wl,--no-whole-archive -o Tarea3Etapa4.exe -Wl,--out-implib,libTarea3Etapa4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Tarea3Etapa4.dir\linkLibs.rsp

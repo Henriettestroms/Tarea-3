@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Tarea3Etapa4.dir\\cpp\\Stage1\\src\\Stage1.cpp.obj -c \"C:\\Users\\henri\\OneDrive\\Valparaiso\\Objektorientert\\Tarea 3\\Tarea new version\\Tarea-3-v1\\cpp\\Stage1\\src\\Stage1.cpp\"",
+  "file": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/Stage1/src/Stage1.cpp",
+  "output": "CMakeFiles/Tarea3Etapa4.dir/cpp/Stage1/src/Stage1.cpp.obj"
+},
+{
+  "directory": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Tarea3Etapa4.dir\\cpp\\src\\Broker.cpp.obj -c \"C:\\Users\\henri\\OneDrive\\Valparaiso\\Objektorientert\\Tarea 3\\Tarea new version\\Tarea-3-v1\\cpp\\src\\Broker.cpp\"",
+  "file": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/Broker.cpp",
+  "output": "CMakeFiles/Tarea3Etapa4.dir/cpp/src/Broker.cpp.obj"
+},
+{
+  "directory": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Tarea3Etapa4.dir\\cpp\\src\\GPSCarPublisher.cpp.obj -c \"C:\\Users\\henri\\OneDrive\\Valparaiso\\Objektorientert\\Tarea 3\\Tarea new version\\Tarea-3-v1\\cpp\\src\\GPSCarPublisher.cpp\"",
+  "file": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/GPSCarPublisher.cpp",
+  "output": "CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarPublisher.cpp.obj"
+},
+{
+  "directory": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Tarea3Etapa4.dir\\cpp\\src\\GPSCarSubscriber.cpp.obj -c \"C:\\Users\\henri\\OneDrive\\Valparaiso\\Objektorientert\\Tarea 3\\Tarea new version\\Tarea-3-v1\\cpp\\src\\GPSCarSubscriber.cpp\"",
+  "file": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/GPSCarSubscriber.cpp",
+  "output": "CMakeFiles/Tarea3Etapa4.dir/cpp/src/GPSCarSubscriber.cpp.obj"
+},
+{
+  "directory": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Tarea3Etapa4.dir\\cpp\\src\\VideoPublisher.cpp.obj -c \"C:\\Users\\henri\\OneDrive\\Valparaiso\\Objektorientert\\Tarea 3\\Tarea new version\\Tarea-3-v1\\cpp\\src\\VideoPublisher.cpp\"",
+  "file": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/VideoPublisher.cpp",
+  "output": "CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoPublisher.cpp.obj"
+},
+{
+  "directory": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Tarea3Etapa4.dir\\cpp\\src\\VideoFollower.cpp.obj -c \"C:\\Users\\henri\\OneDrive\\Valparaiso\\Objektorientert\\Tarea 3\\Tarea new version\\Tarea-3-v1\\cpp\\src\\VideoFollower.cpp\"",
+  "file": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/VideoFollower.cpp",
+  "output": "CMakeFiles/Tarea3Etapa4.dir/cpp/src/VideoFollower.cpp.obj"
+},
+{
+  "directory": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Tarea3Etapa4.dir\\cpp\\src\\Component.cpp.obj -c \"C:\\Users\\henri\\OneDrive\\Valparaiso\\Objektorientert\\Tarea 3\\Tarea new version\\Tarea-3-v1\\cpp\\src\\Component.cpp\"",
+  "file": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/Component.cpp",
+  "output": "CMakeFiles/Tarea3Etapa4.dir/cpp/src/Component.cpp.obj"
+},
+{
+  "directory": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Tarea3Etapa4.dir\\cpp\\src\\Publisher.cpp.obj -c \"C:\\Users\\henri\\OneDrive\\Valparaiso\\Objektorientert\\Tarea 3\\Tarea new version\\Tarea-3-v1\\cpp\\src\\Publisher.cpp\"",
+  "file": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/Publisher.cpp",
+  "output": "CMakeFiles/Tarea3Etapa4.dir/cpp/src/Publisher.cpp.obj"
+},
+{
+  "directory": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Tarea3Etapa4.dir\\cpp\\src\\Subscriber.cpp.obj -c \"C:\\Users\\henri\\OneDrive\\Valparaiso\\Objektorientert\\Tarea 3\\Tarea new version\\Tarea-3-v1\\cpp\\src\\Subscriber.cpp\"",
+  "file": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/Subscriber.cpp",
+  "output": "CMakeFiles/Tarea3Etapa4.dir/cpp/src/Subscriber.cpp.obj"
+},
+{
+  "directory": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIAWIDGETS_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Tarea3Etapa4.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Tarea3Etapa4.dir\\cpp\\src\\Topic.cpp.obj -c \"C:\\Users\\henri\\OneDrive\\Valparaiso\\Objektorientert\\Tarea 3\\Tarea new version\\Tarea-3-v1\\cpp\\src\\Topic.cpp\"",
+  "file": "C:/Users/henri/OneDrive/Valparaiso/Objektorientert/Tarea 3/Tarea new version/Tarea-3-v1/cpp/src/Topic.cpp",
+  "output": "CMakeFiles/Tarea3Etapa4.dir/cpp/src/Topic.cpp.obj"
+}
+]
